@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OrderServiceApiTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
